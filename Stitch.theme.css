@@ -95,7 +95,7 @@ textarea {
 .content .flex-spacer { background:rgba(0,0,0,0.8) }
 
 /* User list area */
-.channel-members { background:rgba(0,0,0,0.9) !important }
+.channel-members { background:rgba(0,0,0,0.85) !important }
 
 /*
                                 _ _     _                   _   _             
@@ -729,7 +729,7 @@ textarea {
 
 .title-wrap {
 	border-bottom:1px solid rgba(0,0,0,0.3) !important;
-	background:rgba(0,0,0,0.95) !important;
+	background:rgba(0,0,0,0.73) !important;
 }
 
 .header-toolbar button.active {
