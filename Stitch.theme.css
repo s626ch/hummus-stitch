@@ -1093,11 +1093,11 @@ textarea {
 }
 
 .friends-header {
-	background:rgba(0,0,0,0.95) !important;
+	background:rgba(0,0,0,0.73) !important
 }
 
 .friends-table {
-	background:rgba(0,0,0,0.85) !important;
+	background:rgba(0,0,0,0.8) !important;
 	margin-top:0 !important;
 }
 
